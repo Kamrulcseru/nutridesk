@@ -72,10 +72,10 @@
                     <div class="space-y-4">
                         <div class="flex justify-between items-start">
                             <div>
-                                <h3 class="font-bold text-lg text-slate-900">{{ app()->getLocale() == 'bn' ? 'শক্তি মিক্স ফ্রুট বাউল (১৩০ গ্রাম)' : 'Shakti Mix Fruit Bowl (130g)' }}</h3>
+                                <h3 class="font-bold text-lg text-slate-900">{{ app()->getLocale() == 'bn' ? 'শক্তি মিক্স ফ্রুট বাউল (১০০ গ্রাম)' : 'Shakti Mix Fruit Bowl (100gm)' }}</h3>
                                 <p class="text-xs text-slate-500">{{ app()->getLocale() == 'bn' ? 'ফুজি আপেল + থাই পেয়ারা + মিষ্টি মাল্টা' : 'Fuji Apple + Thai Guava + Sweet Malta' }}</p>
                             </div>
-                            <span class="text-emerald-600 font-black text-xl">৳৬৩<span class="text-xs text-slate-400 font-normal">/দিন</span></span>
+                            <span class="text-emerald-600 font-black text-xl">৳৫০<span class="text-xs text-slate-400 font-normal">/দিন</span></span>
                         </div>
 
                         <!-- Nutrition Bar -->
@@ -157,7 +157,7 @@
                 <ul class="space-y-3 text-sm text-slate-700">
                     <li class="flex items-start gap-2.5">
                         <i class="fa-solid fa-circle-check text-emerald-600 mt-1"></i>
-                        <span>{{ app()->getLocale() == 'bn' ? 'মাত্র ৬০-৬৫ টাকায় প্রতিদিন ১০০-১৫০ গ্রাম ফ্রেশ কাটা ফল ডেস্কে রেডি।' : 'Freshly sliced 100-150g fruit bowl delivered for just ৳60-65 per day.' }}</span>
+                        <span>{{ app()->getLocale() == 'bn' ? 'মাত্র ৪০-৫০ টাকায় প্রতিদিন ১০০-১২০ গ্রাম ফ্রেশ কাটা ফল ডেস্কে রেডি।' : 'Freshly sliced 100-150g fruit bowl delivered for just ৳40-50 per day.' }}</span>
                     </li>
                     <li class="flex items-start gap-2.5">
                         <i class="fa-solid fa-circle-check text-emerald-600 mt-1"></i>
