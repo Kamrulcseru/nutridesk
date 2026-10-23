@@ -16,7 +16,7 @@
                     @if(app()->getLocale() == 'bn')
                         প্রতিদিন <span class="text-emerald-600 underline decoration-amber-400 decoration-wavy">১০০ গ্রাম ফ্রেশ ফল</span>, সরাসরি আপনার অফিস ডেস্কে!
                     @else
-                        Daily <span class="text-emerald-600 underline decoration-amber-400 decoration-wavy">100g Fresh Fruit</span>, Directly To Your Office Desk!
+                        Daily <span class="text-emerald-600 underline decoration-amber-400 decoration-wavy">100gm Fresh Fruit</span>, Directly To Your Office Desk!
                     @endif
                 </h1>
 

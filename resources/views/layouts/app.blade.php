@@ -38,7 +38,7 @@
                 <a href="{{ route('set.locale', 'bn') }}" class="px-2.5 py-0.5 rounded-full {{ app()->getLocale() == 'bn' ? 'bg-emerald-500 text-white font-bold' : 'text-emerald-200 hover:text-white' }}">বাংলা</a>
                 <a href="{{ route('set.locale', 'en') }}" class="px-2.5 py-0.5 rounded-full {{ app()->getLocale() == 'en' ? 'bg-emerald-500 text-white font-bold' : 'text-emerald-200 hover:text-white' }}">English</a>
             </div>
-            <span><i class="fa-solid fa-phone text-emerald-400 mr-1"></i> +880 1700-000001</span>
+            <span><i class="fa-solid fa-phone text-emerald-400 mr-1"></i> +8801646-696247</span>
         </div>
     </div>
 
@@ -188,15 +188,15 @@
                     <ul class="space-y-3 text-sm text-slate-400">
                         <li class="flex items-start gap-2">
                             <i class="fa-solid fa-location-dot text-emerald-400 mt-1"></i>
-                            <span>Gulshan-2 & Banani, Dhaka, Bangladesh</span>
+                            <span>Kalibari, Chandpur, Bangladesh</span>
                         </li>
                         <li class="flex items-center gap-2">
                             <i class="fa-solid fa-phone text-emerald-400"></i>
-                            <span>+880 1700-000001 / +880 1811-112233</span>
+                            <span>+880 1646-696247 / +880 1719860798</span>
                         </li>
                         <li class="flex items-center gap-2">
                             <i class="fa-solid fa-envelope text-emerald-400"></i>
-                            <span>hello@nutridesk.com</span>
+                            <span>mdrahatkhan2006mr.khan@gmail.com</span>
                         </li>
                     </ul>
                 </div>
