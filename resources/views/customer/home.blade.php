@@ -67,7 +67,7 @@
                         {{ app()->getLocale() == 'bn' ? 'আজকের ফ্রেশ বাউল' : 'Today\'s Bowl' }}
                     </div>
 
-                    <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600" alt="NutriDesk Fresh Fruit Bowl" class="w-full h-56 object-cover rounded-2xl mb-5 shadow-sm">
+                    <img src="https://images.unsplash.com/photo-1519996529931-28324d5a630e?w=800&auto=format&fit=crop" alt="NutriDesk Fresh Fruit Bowl" class="w-full h-56 object-cover rounded-2xl mb-5 shadow-sm">
 
                     <div class="space-y-4">
                         <div class="flex justify-between items-start">
