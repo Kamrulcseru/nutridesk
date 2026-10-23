@@ -1,6 +1,6 @@
 // API Client for NutriDesk Mobile App
 
-const API_BASE_URL = 'https://fighters-spare-shower-meanwhile.trycloudflare.com/api/v1';
+const API_BASE_URL = 'https://nutridesk-urff.onrender.com/api/v1';
 
 export const ApiClient = {
     // Fetch packages
